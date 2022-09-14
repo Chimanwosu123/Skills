@@ -1,0 +1,9 @@
+Skills:
+  C++
+  Python
+  OpenCV
+  Linux
+  Embedded Systems:
+    MSP430 
+    ARM MCU'scontrollers
+        
